@@ -10,7 +10,7 @@ export default withMermaid({
     nav: [
       { text: '主页', link: '/' },
       { text: '关于', link: '/about/aboutus' },
-      { text: 'API文档', link: 'https://napplana.net'}
+      { text: 'API文档', link: 'https://ref.napplana.net'}
     ],
     
     sidebar: [
